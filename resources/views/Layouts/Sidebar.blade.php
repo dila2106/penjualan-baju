@@ -5,7 +5,7 @@
         <!--begin::Brand Link-->
         <a href="{{ url('etalase') }}" class="brand-link"> <!-- Tautkan ke halaman etalase -->
             <!--begin::Brand Image-->
-            <img src="{{ asset('asset/dist/assets/img/komputer.png') }}" alt="AdminLTE Logo" class="brand-image opacity-75 shadow">
+            <img src="{{ asset('asset/dist/assets/img/baju.png') }}" alt="AdminLTE Logo" class="brand-image opacity-75 shadow">
             <!--end::Brand Image-->
             <!--begin::Brand Text-->
             <span class="brand-text fw-light">TOKO BAJU</span>
